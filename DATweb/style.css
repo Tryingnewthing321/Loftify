@@ -1,0 +1,55 @@
+    body{
+        /*background-color: pink ;*/
+        background-image: url('./anime-couple-holding-hands-field-flowers-generative-ai_974533-22369.avif');
+        
+        background-size: cover;
+
+    }
+    h1{
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+    }
+    h3{
+        text-align: center;
+        color: whitesmoke;
+        text-decoration: underline;
+    }
+    footer{
+        text-align: center;
+        color: white;
+        
+    }
+    .FirstButton{
+    /* text-align: center;*/
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: white;
+        background-color: blue;
+        font-size: larger;
+        
+
+    }
+    .SecondButton{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: yellowgreen;
+        background-color: black;
+        font-size: larger;
+    }
+    .ThirdButton{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: antiquewhite;
+        background-color: brown;
+        font-size: larger;
+    }
+    .FourthButton{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: crimson;
+        font-size: larger;
+        background-color: whitesmoke;
+    }
+    .spotify1 {
+        margin-top: 50px;
+        max-width: 100%;
+        height: auto;
+    }
+    
